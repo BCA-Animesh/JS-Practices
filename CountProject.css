@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+#counter {
+    text-align: center;
+}
+#buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#leftClick, #rightClick{
+    background-color: green;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5px;
+}
